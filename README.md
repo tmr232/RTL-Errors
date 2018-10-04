@@ -1,2 +1,2 @@
-# RTfaiL
-Collections of RTL failures for devs to learn from
+# RTL-Errors
+Collection of RTL errors for devs to learn from
